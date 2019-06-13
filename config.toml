@@ -1,0 +1,8 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Omar Aparicio"
+theme = "m10c"
+publishDir = "docs"
+[params]
+author = "Omar Aparicio"
+description = "Estudiante de ingeniería en sistemas compitacionales en el IPN "
